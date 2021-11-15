@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "RaceTeam",
+  "namespace": "",
+  "sfdcLoginUrl": "https://creative-goat-kf2s78-dev-ed.my.salesforce.com/",
+  "sourceApiVersion": "52.0"
+}
